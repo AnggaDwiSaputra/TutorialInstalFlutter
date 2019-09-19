@@ -11,7 +11,7 @@ Langkah-langkah Instalasi Flutter
    Saat tulisan ini dibuat flutter dalam versi 1.2.1 Stable.
 
 2. Selanjutnya silahkan download Command Line Tools Only di halaman ini , penampakan nya seperti berikut,
-   silahkan download sesuai sistem operasi yang digunakan.
+   silahkan download sesuai sistem operasi yang digunakan. <img src="iya.png">
 
 3. Silahkan Ekstrak kedua file tersebut dan letakkan di C:\Android untuk windows dan untuk sistem operasi yang lainnya bisa menaruh di root dan buat folder Android. Maka hasilnya akan ada 2 folder yaitu folder flutter dan tools.
 
