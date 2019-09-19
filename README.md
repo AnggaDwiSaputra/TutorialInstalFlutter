@@ -21,8 +21,9 @@ setx ANDROID_HOME “C:\Android”
 setx ANDROID_SDK_ROOT “C:\Android\tools” 
 setx path “%path%;”C:\Android\sdk;C:\Android\tools\bin;C:\Android\flutter\bin” <img src="env.png">
 
-5. Buka terminal (Command Prompt) di C:/Android/tools/bin lalu ketikan beberapa perintah berikut. sdkmanager “system-images;android-28;default;x86_64” sdkmanager “platform-tools” sdkmanager “build-tools;28.0.3” sdkmanager “platforms;android-28”. <img src="100 2 ary.png">
+5. Buka terminal (Command Prompt) di C:/Android/tools/bin lalu ketikan beberapa perintah berikut. sdkmanager “system-images;android-28;default;x86_64” sdkmanager “platform-tools” sdkmanager “build-tools;28.0.3” sdkmanager “platforms;android-28”. 
+<img src="100 4 ary.png"> <img src="100 2 ary.png">
 
-6. Selanjutnya install Visual Studio Code dan ekstension flutter serta dart nya.
+6. Selanjutnya install Visual Studio Code dan ekstension flutter serta dart nya. <img src="vsc.png">
 
 7. Step terakhir adalah buat project di VsCode dengan klik F1 dan mengetikan Flutter: New Project setelah project selesai di load, klik F5 untuk mendeploy ke android device teman-teman.
