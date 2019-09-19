@@ -19,7 +19,7 @@ Langkah-langkah Instalasi Flutter
 setx JAVA_HOME “C:\Android\openjdk” 
 setx ANDROID_HOME “C:\Android” 
 setx ANDROID_SDK_ROOT “C:\Android\tools” 
-setx path “%path%;”C:\Android\sdk;C:\Android\tools\bin;C:\Android\flutter\bin”
+setx path “%path%;”C:\Android\sdk;C:\Android\tools\bin;C:\Android\flutter\bin” <img src="env.png">
 
 5. Buka terminal (Command Prompt) di C:/Android/tools/bin lalu ketikan beberapa perintah berikut. sdkmanager “system-images;android-28;default;x86_64” sdkmanager “platform-tools” sdkmanager “build-tools;28.0.3” sdkmanager “platforms;android-28”.
 
