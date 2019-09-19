@@ -28,4 +28,4 @@ setx path “%path%;”C:\Android\sdk;C:\Android\tools\bin;C:\Android\flutter\bi
 
 7. Step terakhir adalah buat project di VsCode dengan klik F1 dan mengetikan Flutter: New Project setelah project selesai di load, klik F5 untuk mendeploy ke android device teman-teman.
 
-8. setelah terhubung dengan device android anda maka akan ada gambar seperti ini 
+8. setelah terhubung dengan device android anda maka akan ada gambar seperti ini. <img src="android.png">
